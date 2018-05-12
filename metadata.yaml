@@ -1,0 +1,34 @@
+_repo: The-United-States-and-the-War_35726
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Murray, Gilbert
+    aliases:
+    - Murray, George Gilbert Aimé
+    - Murray, George Gilbert Aime
+    birthdate: 1866
+    deathdate: 1957
+    gutenberg_agent_id: '1681'
+    url: http://www.gutenberg.org/2009/agents/1681
+    wikipedia: http://en.wikipedia.org/wiki/Gilbert_Murray
+description: ''
+gutenberg_issued: '2011-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35726'
+  lccn: '16025144'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- United States'
+- !lcsh 'Neutrality -- United States'
+- !lcsh 'United States -- Defenses'
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Causes'
+title: The United States and the War
+url: http://www.gutenberg.org/ebooks/35726
